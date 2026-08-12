@@ -20,6 +20,6 @@ It contains details of all items and operations which can be performed.
 
 
 # Built By
-	Kritagya Agarwal
+	Krish Mehta
 
 
